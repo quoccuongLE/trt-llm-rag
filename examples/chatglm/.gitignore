@@ -1,0 +1,11 @@
+__pycache__/
+.vscode/
+chatglm*/
+dataset/
+glm*/
+trt_ckpt/
+trt_engine/
+
+model.cache
+*.safetensors
+*.json
